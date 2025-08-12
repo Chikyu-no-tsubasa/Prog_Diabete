@@ -1,0 +1,16 @@
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/TelemedLoginApplication.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/api/AuthController.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/api/LoginRequest.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/api/LoginResponse.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/auth/Diabetologo.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/auth/DiabetologoRepository.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/auth/Paziente.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/auth/PazienteRepository.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/auth/Role.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/auth/Utente.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/auth/UtenteRepository.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/bootstrap/DataLoader.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/config/SecurityConfig.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/security/CustomUserDetailsService.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/security/JwtAuthFilter.java
+/Users/alessioterraroli/Desktop/Study/UNIVR/Secondo Anno/Ingegneria_SW/Poms/telemed-login/src/main/java/it/unibs/diabetici/security/JwtUtil.java
